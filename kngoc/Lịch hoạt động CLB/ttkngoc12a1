@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<p>Trường THPT Nguyễn Bỉnh Khiêm có bề dày thành tích về học tập và các hoạt động thể thao, văn nghệ của thành phố.<br>
+Các câu lạc bộ hoạt động sôi nổi và luôn được trường tạo điều kiện để sinh hoạt.<br>
+Những năm qua trường đạt nhiều thành tích trong các cuộc thi thành phố, quận.</p>
+<ul>
+<li>03 HCV cấp thành phố môn bơi lội</li>
+<li>02 HCV, 06 HCB và 05 HCD cấp thành phố các môn võ thuật</li>
+<li>01 giải ba môn bóng đá nam cấp thành phố</li>
+<li>Theo dõi lịch hoạt động các CLB thể </li>
+</ul>
+<a href="#clbtt">Theo dõi lịch hoatj động CLB Thể Thao</a>
+<br>
+<br>
+<br>
+<table id="CLBTT" border="1">
+<caption><b>Lịch hoạt động CLB Thể thao</b></caption><tr style="border:1px solid"><th rowspan="2"; bgcolor=#66CCCC>Bộ môn</th>
+<th rowspan="2"; bgcolor= FF9966>GV phụ trách</th>
+<th colspan="5"; bgcolor= pink>Ngày</th></tr>
+<tr><th bgcolor= FFFCCC>Thứ 2</th><th bgcolor= FFFF99>Thứ 3</th><th bgcolor= FFFF66>Thứ 4</th><th bgcolor= FFFF33>Thứ 5</th><th bgcolor= FFFF00>Thứ 6</th></tr>
+<tr>
+<td bgcolor= 66FFFF>Bóng đá</td><td bgcolor= FF9933>Thầy Khải</td><td> </td><td bgcolor=66FF66>X </td><td> </td><td> </td><td bgcolor=66FF66>X </td>
+</tr>
+<tr>
+<td bgcolor= CCFF99>Bóng chuyền</td><td bgcolor= FF9900>Cô Lan</td><td bgcolor=66FF66>X </td><td> </td><td> </td><td> </td><td> </td>
+</tr>
+<tr>
+<td bgcolor= FFFF66>Bóng rổ</td><td bgcolor= FF9966>Thầy Vũ</td><td> </td><td> </td><td bgcolor=66FF66>X </td><td> </td><td> </td>
+</tr>
+<tr>
+<td bgcolor=FF9999>Võ thuật</td>
+<td style="width:20%;height:50%"; bgcolor= FFCC66>
+    Thầy Hoàng - Karatedo 
+    Thầy Đức - Taekwondo 
+    Thầy Thắng - Vovinam</td>
+<td bgcolor=66FF66>X </td><td bgcolor=66FF66>X </td><td> </td><td bgcolor=66FF66>X </td><td> </td></tr>
+<tr>
+<td bgcolor= FFCCCC>Bơi</td><td bgcolor= FFFF99>Cô Bích</td><td> </td><td> </td><td bgcolor=66FF66>X </td><td> </td><td bgcolor=66FF66>X </td>
+</tr>
+</table>
+</body>
+</html>   
